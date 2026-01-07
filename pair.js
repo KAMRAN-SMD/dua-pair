@@ -8,17 +8,14 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/policeduafatima/FATIMA-MD
-
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://wa.me/923155641171
-https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O
+https://github.com/M-NAWAZ-MD/NAWAZ-TECHNICAL-MD155641171
+https://whatsapp.com/channel/0029VbBCecV7T8bVXoCicf0D
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Duafatima
+https://youtube.com/nawazthmd65
 
-*FATIMA-MD--WHATTSAPP-BOT* 🥀
+*NAWAZ-MD--WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
